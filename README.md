@@ -1,5 +1,7 @@
 # enterprise-cybersecurity-masters-portfolio
+
 Enterprise Cybersecurity Graduate Portfolio
+
 Bradley Jason Adams
 
 This repository documents graduate-level cybersecurity work focused on enterprise risk management, governance frameworks, cryptographic systems, network security architecture, auditing, and strategic cybersecurity leadership.
